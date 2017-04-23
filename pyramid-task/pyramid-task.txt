@@ -1,0 +1,16 @@
+Suppose you've got the following pyramid, constructed from the following elements:
+                    0
+               0,50   0,50
+            0,750 1,500 0,750
+         0,875 2,125 2,125 0,875
+      0,938 2,500 3,125 2,500 0,938
+   0,969 2,719 3,813 3,813 2,719 0,969
+0,984 2,844 4,266 4,813 4,266 2,844 0,984
+.........................................
+Each level of the pyramid has certain elements, placed on indexes.
+These values in the pyramid above are the weihts of each element.
+
+
+Project contains get methods, that calculate the weight of element by index and level.
+Level - is the number of pyramids level, starting with 1
+Index - element's number inside level
