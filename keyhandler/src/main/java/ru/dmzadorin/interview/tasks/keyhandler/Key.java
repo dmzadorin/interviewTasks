@@ -1,4 +1,4 @@
-package ru.dmzadorin.interview.tasks.keyhanlder;
+package ru.dmzadorin.interview.tasks.keyhandler;
 
 import java.util.Objects;
 

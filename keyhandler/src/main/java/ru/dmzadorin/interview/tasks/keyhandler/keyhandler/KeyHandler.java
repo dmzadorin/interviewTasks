@@ -1,6 +1,6 @@
-package ru.dmzadorin.interview.tasks.keyhanlder.keyhandler;
+package ru.dmzadorin.interview.tasks.keyhandler.keyhandler;
 
-import ru.dmzadorin.interview.tasks.keyhanlder.Key;
+import ru.dmzadorin.interview.tasks.keyhandler.Key;
 
 /**
  * Key handler, that prevents simultaneous processing of equal keys.

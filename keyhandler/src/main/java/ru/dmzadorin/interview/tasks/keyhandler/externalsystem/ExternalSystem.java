@@ -1,6 +1,6 @@
-package ru.dmzadorin.interview.tasks.keyhanlder.externalsystem;
+package ru.dmzadorin.interview.tasks.keyhandler.externalsystem;
 
-import ru.dmzadorin.interview.tasks.keyhanlder.Key;
+import ru.dmzadorin.interview.tasks.keyhandler.Key;
 
 /**
  * External system that processes keys

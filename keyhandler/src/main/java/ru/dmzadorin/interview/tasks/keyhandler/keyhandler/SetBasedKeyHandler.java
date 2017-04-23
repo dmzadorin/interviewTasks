@@ -1,7 +1,7 @@
-package ru.dmzadorin.interview.tasks.keyhanlder.keyhandler;
+package ru.dmzadorin.interview.tasks.keyhandler.keyhandler;
 
-import ru.dmzadorin.interview.tasks.keyhanlder.Key;
-import ru.dmzadorin.interview.tasks.keyhanlder.externalsystem.ExternalSystem;
+import ru.dmzadorin.interview.tasks.keyhandler.Key;
+import ru.dmzadorin.interview.tasks.keyhandler.externalsystem.ExternalSystem;
 
 import java.util.Set;
 import java.util.concurrent.ConcurrentHashMap;
