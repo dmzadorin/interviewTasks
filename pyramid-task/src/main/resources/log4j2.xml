@@ -11,7 +11,7 @@
         </Console>
     </Appenders>
     <Loggers>
-        <logger name="ru.ml" level="debug" includeLocation="true">
+        <logger name="ru.dmzadorin" level="debug" includeLocation="true">
             <AppenderRef ref="STDOUT" level="info"/>
             <AppenderRef ref="file"/>
         </logger>
