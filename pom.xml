@@ -17,6 +17,7 @@
        <module>andiksTask</module>
        <module>keyhandler</module>
        <module>pyramid-task</module>
+       <module>quoteService</module>
    </modules>
 
     <build>
